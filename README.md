@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Zayniddin 👋
 
-<!--
-**zayniddindev/zayniddindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a strong focus on **backend development**, complemented by experience in **software quality testing**, **DevOps**, and **frontend** technologies. Known for a passion for coding and a penchant for coffee :)
 
-Here are some ideas to get you started:
+**Skills:**
+- Backend development (proficient with Node.js and 100+ npm packages)
+- QA Automation (TypeScript+Playwright=Love)
+- DevOps (I use Linux btw)
+- Frontend Development (React forever!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**You can reach me via:**
+- [Email](mailto:zayniddindev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/zayniddin-atabaev)
